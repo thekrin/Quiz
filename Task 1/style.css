@@ -1,0 +1,68 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: rgb(253, 240, 233);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+}
+
+.title h5 {
+    color: #EF6D58;
+    margin-top: 40px;
+    margin-left: 64px;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.title h1 {
+    color: #391400;
+    width: 400px;
+    margin-top: 10px;
+    margin-left: 60px;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 48px;
+}
+
+.agency-cards {
+    display: flex;
+    margin-top: 35px;
+    display: flex;
+    margin-left: 4rem;
+}
+
+.card {
+    border: 1px solid #F3D1BF;
+    width: 391px;
+    height: 350px;
+
+}
+
+.oval {
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.card h3 {
+    margin-top: 30px;
+    margin-left: 34px;
+}
+
+.card p {
+    margin-top: 30px;
+    margin-left: 34px;
+    color: rgba(57, 20, 0, 0.64);
+    margin-bottom: 40px;
+}
+
+.bg-photo {
+    background-image: url(./Oval.png);
+    background-repeat: no-repeat;
+    height: 80px;
+}
+
+.bg-photo img{
+    margin-left: 24px;
+    margin-top: 23px;
+}
